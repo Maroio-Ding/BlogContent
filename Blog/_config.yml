@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Maroio's  BLOG
+title: Maroio
 subtitle: ''
 description: ''
 keywords:
-author: Maroio  Ding
+author: Maroio Ding
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
