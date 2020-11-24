@@ -8,7 +8,7 @@
 
 menu:
   Home: / || fas fa-home
-  # Archives: /archives/ || fas fa-archive
+  Archives: /archives/ || fas fa-archive
   # Tags: /tags/ || fas fa-tags
   # Categories: /categories/ || fas fa-folder-open
   # List||fas fa-list:
@@ -132,7 +132,7 @@ error_img:
 error_404:
   enable: false
   subtitle: 'Page Not Found'
-  background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
+  background: https://raw.githubusercontent.com/Maroio-Ding/My_ImgBed/main/Material/404/52487.jpg
 
 post_meta:
   page: # Home Page
