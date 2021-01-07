@@ -129,5 +129,3 @@ markdown:
     permalinkClass: header-anchor
     permalinkSymbol: ¶
 
-Plugins:
-- hexo-generator-cname
