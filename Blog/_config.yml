@@ -14,7 +14,7 @@ timezone: 'Asia/Shanghai'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: http://maroiomars.cn
-root: /
+root: /blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -128,3 +128,6 @@ markdown:
     permalink: true
     permalinkClass: header-anchor
     permalinkSymbol: ¶
+
+Plugins:
+- hexo-generator-cname
